@@ -1,0 +1,15 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .container .box1 {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1; }
+    .container .box1 h1 {
+      color: #311010; }
+  .container .box2 {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    color: #311010; }

@@ -1,0 +1,18 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "Gulp workflow with postcss and sass",
+  "main": "app.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "Simo Edwin",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.2.5",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
